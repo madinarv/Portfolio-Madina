@@ -1,0 +1,27 @@
+// export const menu = [
+//     {
+//         id:1,
+//         name:'home',
+//         url:'/',
+//     },
+//     {
+//         id:2,
+//         name:'resume',
+//         url:'/about-us',
+//     },
+//     {
+//         id:3,
+//         name:'works',
+//         url:'/services',
+//     },
+//     {
+//         id:4,
+//         name:'blogs',
+//         url:'/projects',
+//     },
+//     {
+//         id:5,
+//         name:'contact',
+//         url:'/shop',
+//     }
+// ];
